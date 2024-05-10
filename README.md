@@ -1,2 +1,2 @@
-# discord bot public branch
+# discord bot dev branch
  
